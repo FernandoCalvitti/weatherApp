@@ -1,4 +1,4 @@
-Weather Web App     =>>>   https://fernandocalvitti.github.io/   <<<=
+Weather Web App     =>>>   https://fernandocalvitti.github.io/weatherApp/   <<<=
 
 In this project I use Js to consume an API that provides data about the weather. The query is made by geolocation and is displayed in the web application.
 Preview image:
